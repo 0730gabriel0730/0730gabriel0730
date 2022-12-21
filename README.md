@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0730gabriel0730" alt="0730gabriel0730" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0730gabriel0730" target="blank"><img src="https://img.shields.io/twitter/follow/0730gabriel0730?logo=twitter&style=for-the-badge" alt="0730gabriel0730" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0730_gabriel" target="blank"><img src="https://img.shields.io/twitter/follow/0730_gabriel?logo=twitter&style=for-the-badge" alt="0730_gabriel" /></a> </p>
 
 - 🔭 I’m currently working on **Platinum Bot Manager**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Bots And COdes**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 0730.gabriel.dev@gmail.com</h3>
 <p align="left">
 <a href="https://twitter.com/0730_gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0730gabriel0730" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/rsBU4eKMRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rsBU4eKMRN" height="30" width="40" /></a>
